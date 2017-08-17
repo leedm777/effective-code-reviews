@@ -60,6 +60,8 @@ You can make `git format-patch`/`svn diff` + email work
 
 Commit history is the guide to why the code is the way it is.
 
+[!["Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes](./images/debugging-crime-movie.png)](https://twitter.com/CodeWisdom/status/897911593878511617)
+
 ---
 
 #  [How to Write a Git Commit Message][git-commit] 
