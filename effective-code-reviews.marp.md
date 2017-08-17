@@ -75,7 +75,6 @@ From Chris Beams:
  6. Wrap the body at 72 characters
  7. Use the body to explain *what* and *why* vs. *how*
 
-
 ---
 
 # Use the imperative mood in the subject line
@@ -183,6 +182,15 @@ index 50be92d2..a4ab74ed 100644
 
 * If you don't want to review, just remove yourself from it
 * If you're not familiar enough to give it a :+1:, just leave feedback and leave it unapproved
+
+---
+
+# Use a checklist
+
+* Are there unit tests?
+* Is the code clear? Maintainable?
+* Does the code acheive the intended purpose?
+* Should docs be updated? (readme, changelog, api docs, ...)
 
 ---
 
